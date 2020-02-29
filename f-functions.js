@@ -10,3 +10,11 @@ console.log(add())
     return x + y
 }
 console.log(arr.reduce(add))
+function map(arr, func){
+    const ar = []
+    for(let i = 0; i < arr.length; i++){
+        
+    }
+    return ar
+
+}
